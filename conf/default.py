@@ -22,8 +22,8 @@ from django.conf.global_settings import *
 # 应用基本信息配置 (请按照说明修改)
 # ==============================================================================
 # 在DiOne开发者中心 -> 点击应用ID -> 基本信息 中获取 APP_ID 和 APP_TOKEN 的值
-APP_ID = ''
-APP_TOKEN = ''
+APP_ID = 'cam-closeli-h5'
+APP_TOKEN = 'd23081ee-bc20-4cea-905b-1f1fe1d85b2c'
 # DiOne开发者中心的域名，形如：http://paas.dione.com
 BK_PAAS_HOST = ''
 
