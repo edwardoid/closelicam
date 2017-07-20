@@ -91,5 +91,8 @@ ENV/
 .ropeproject
 
 # Project config settings
-conf/
-settings.py
+#conf/
+#settings.py
+
+# Project cache files
+.idea/
